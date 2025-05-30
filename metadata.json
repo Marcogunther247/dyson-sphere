@@ -1,0 +1,5 @@
+{
+  "name": "Dyson Sphere Vision",
+  "description": "A web application to generate visionary descriptions and visualizations of a Dyson Sphere project using Gemini API.",
+  "requestFramePermissions": []
+}
